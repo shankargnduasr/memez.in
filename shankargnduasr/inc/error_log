@@ -1,0 +1,103 @@
+[11-Oct-2017 08:53:40 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[11-Oct-2017 08:53:40 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[11-Oct-2017 08:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/shankargnduasr/public_html/inc/header.inc.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[11-Oct-2017 08:53:53 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[11-Oct-2017 08:53:53 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[11-Oct-2017 08:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/shankargnduasr/public_html/inc/header.inc.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[11-Oct-2017 08:55:18 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[11-Oct-2017 08:55:18 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[11-Oct-2017 08:55:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/shankargnduasr/public_html/inc/header.inc.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[11-Oct-2017 08:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/shankargnduasr/public_html/inc/connect.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/shankargnduasr/public_html/inc/connect.inc.php on line 3
+[11-Oct-2017 09:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/shankargnduasr/public_html/inc/connect.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/shankargnduasr/public_html/inc/connect.inc.php on line 3
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[02-Nov-2017 18:10:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[02-Nov-2017 18:16:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[03-Nov-2017 14:58:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[04-Nov-2017 05:55:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[05-Nov-2017 04:10:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[06-Nov-2017 05:14:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/shankargnduasr/public_html/inc/header.inc.php on line 2
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 87
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 88
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 89
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_query(): Access denied for user 'shankargnduasr'@'localhost' (using password: NO) in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shankargnduasr/public_html/inc/header.inc.php on line 92
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 93
+[06-Nov-2017 05:34:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/shankargnduasr/public_html/inc/header.inc.php on line 94

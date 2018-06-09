@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)$ profile.php?u=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/$ profile.php?u=$1
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L] 

@@ -1,0 +1,3 @@
+User-Agent:*
+Disallow:/shankar7570/
+sitemap:http://www.nomoke.in/sitemap.xml
